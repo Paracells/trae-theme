@@ -1,0 +1,7 @@
+id = "trae-theme"
+name = "Trae"
+version = "1.0.0"
+schema_version = 1
+authors = ["Paracells <enoalife@hotmail.com>"]
+description = "Trae's Dark, Light and Deep Blue color themes for Zed"
+repository = "https://github.com/paracells/trae-theme"
